@@ -82,7 +82,7 @@ hi Type guifg=#19d1e5 guibg=NONE guisp=NONE gui=bold ctermfg=38 ctermbg=NONE cte
 hi DiffChange guifg=#FFDA45 guibg=NONE guisp=NONE gui=NONE ctermfg=NONE ctermbg=NONE cterm=NONE
 hi Cursor guifg=#192224 guibg=#F9F9F9 guisp=#F9F9F9 gui=NONE ctermfg=235 ctermbg=15 cterm=NONE
 hi SpellLocal guifg=#F9F9FF guibg=#192224 guisp=#192224 gui=underline ctermfg=189 ctermbg=235 cterm=underline
-hi Error guifg=#F9F9FF guibg=#FF3F4F guisp=#FF3F4F gui=NONE ctermfg=248 ctermbg=88 cterm=NONE
+hi Error guifg=#FF3F4F guibg=NONE guisp=NONE gui=NONE ctermfg=248 ctermbg=NONE cterm=NONE
 hi PMenu guifg=#F9F9FF guibg=#0F1419 guisp=#0F1419 gui=NONE ctermfg=235 ctermbg=66 cterm=NONE
 hi SpecialKey guifg=#FF3F4F guibg=NONE guisp=NONE gui=italic ctermfg=66 ctermbg=NONE cterm=NONE
 hi Constant guifg=#ff4dff guibg=NONE guisp=NONE gui=NONE ctermfg=13 ctermbg=NONE cterm=NONE
