@@ -9,4 +9,3 @@
 ```vim
 Plug 'Matt-Gleich/monovibrant'
 ```
-
